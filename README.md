@@ -26,7 +26,7 @@ React JS
 
 Nesse projeto desenvolvemos um gerenciador de transações, onde informações Entrada ou saída de dinheiro.
 
-  **Para rodar o projeto é necessário instalar com NPM i todas as dependências na WEB. Os projetos podem ser executados pelo NPM RUN DEV e NPM RUN DEV:SERVER para rodar o JSON Server ao mesmo tempo.**
+  **Para rodar o projeto é necessário instalar com NPM i todas as dependências. O projeto pode ser executado pelo NPM RUN DEV e NPM RUN DEV:SERVER para rodar o JSON Server ao mesmo tempo.**
 
 ## 🔖 Layout
 
