@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-11-19T13:13:18.353Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-11-19T11:30:18.353Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite RocketSeat",
+      "type": "outcome",
+      "category": "DEV",
+      "price": 9999,
+      "createdAt": "2022-11-19T09:30:18.353Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2022-11-22T15:44:07.200Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2022-11-22T15:57:35.530Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte de banana",
+      "category": "Alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2022-11-22T16:09:33.572Z",
+      "id": 6
+    },
+    {
+      "description": "Dentista",
+      "category": "Saúde",
+      "price": 180,
+      "type": "outcome",
+      "createdAt": "2022-11-24T11:50:10.631Z",
+      "id": 7
+    }
+  ]
+}
